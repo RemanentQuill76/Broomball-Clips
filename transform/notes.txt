@@ -1,0 +1,2 @@
+purpose of this folder is to provide scripts to transform rink film to exclude
+unnecessary portions of the rink for the purposes of the CV, and to make the perspectives of the different rinks more similar. This ensures that model compatibility across rinks is more acceptable
